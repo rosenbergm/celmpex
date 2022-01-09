@@ -1,11 +1,3 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Elm and Elixir introduction presentation
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+This presentation had been made for one of our Zoom calls over at Facemoji. During that time, my friend [Michal](https://github.com/michaljanocko) and I were starting to introduce Elixir and Elm into the company's tech stack.
